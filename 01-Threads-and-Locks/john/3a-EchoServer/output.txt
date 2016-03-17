@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.10586]
+(c) 2015 Microsoft Corporation. All rights reserved.
+
+C:\Users\John>telnet localhost 19903
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ Heelllloo,,  WWoorrlldd!!
+
+YYeepp,,  iitt''ss  aann  eecchhoo  sseerrvveerr..

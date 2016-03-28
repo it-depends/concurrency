@@ -6,7 +6,7 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/pb7con for more book information.
 ***/
-package com.paulbutcher;
+//package com.paulbutcher;
 
 import java.io.FileInputStream;
 import java.util.Iterator;

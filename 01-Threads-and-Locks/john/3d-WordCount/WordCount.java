@@ -6,7 +6,7 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/pb7con for more book information.
 ***/
-package com.paulbutcher;
+//package com.paulbutcher;
 
 import java.util.Map;
 import java.util.HashMap;
@@ -17,7 +17,7 @@ public class WordCount {
 
   public static void main(String[] args) throws Exception {
     long start = System.currentTimeMillis();
-    Iterable<Page> pages = new Pages(100000, "enwiki.xml");
+    Iterable<Page> pages = new Pages(100000, "\\Wiki\\enwiki.xml");
     for(Page page: pages) {
       Iterable<String> words = new Words(page.getText());
       for (String word: words)
